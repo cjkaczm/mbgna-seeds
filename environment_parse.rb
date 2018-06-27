@@ -36,8 +36,9 @@ ENVIRONMENTS.length.times do |i|
                     'Sep',
                     'Oct',
                     'Nov',
-                    'Special Concern or Threatened',
-                    'Coeff of Concern'
+                    'Status',
+                    'C',
+                    'W',
                     ]
 
 	all_species_csv.each do |species|
@@ -56,6 +57,7 @@ ENVIRONMENTS.length.times do |i|
                         species[17], #Nov
                         species[18], #SC/T
                         species[19], #Coeff of concern
+                        species[20], #Wetness
                       ]
 		end
 	end

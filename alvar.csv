@@ -1,11 +1,11 @@
-Scientific Name,Common Name,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Special Concern or Threatened,Coeff of Concern
-Arctostaphylos uva-ursi,Bearberry,,,,,,,,,,
-Bromus kalmii,Prairie Brome,,,,,1,,,,,
-Clinopodium arkansanum,Limestone Calamint,,,,,1,,,,,
-Geum triflorum,Prairie Smoke,,1,1,,,,,,T,
-Liatris cylindracea,Dwarf Blazing Star,,,,,,1,1,1,,
-Lupinus perennis,Lupine,,,1,1,,,,,,
-Parnassia glauca,Grass of Parnassus,,,,1,1,1,1,1,,
-Solidago houghtonii,Houghton's Goldenrod,,,,,,1,1,1,T,
-Solidago ptarmicoides,White Upland Goldenrod,,,,,,1,1,,,
-Tanacetum bipinnatum,Lake Huron Tansy,,,,1,1,,,,,
+Scientific Name,Common Name,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Status,C,W
+Arctostaphylos uva-ursi,Bearberry,,,,,,,,,,8,5
+Bromus kalmii,Prairie Brome,,,,,1,,,,,8,0
+Clinopodium arkansanum,Limestone Calamint,,,,,1,,,,,10,-3
+Geum triflorum,Prairie Smoke,,1,1,,,,,,T,8,3
+Liatris cylindracea,Dwarf Blazing Star,,,,,,1,1,1,,5,5
+Lupinus perennis,Lupine,,,1,1,,,,,,7,5
+Parnassia glauca,Grass of Parnassus,,,,1,1,1,1,1,,8,-5
+Solidago houghtonii,Houghton's Goldenrod,,,,,,1,1,1,T,10,-5
+Solidago ptarmicoides,White Upland Goldenrod,,,,,,1,1,,,6,3
+Tanacetum bipinnatum,Lake Huron Tansy,,,,1,1,,,,T,10,3

@@ -1,16 +1,16 @@
-Scientific Name,Common Name,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Special Concern or Threatened,Coeff of Concern
-Ageratina altissima,Snakeroot,,,,,,,1,1,,
-Anemone virginiana,Thimbleweed,,,,,,,1,,,
-Caltha palustris,Yellow Marsh Marigold,,,1,1,,,,,,
-Carex grayi,Gray's Sedge,,,,1,1,1,1,1,,
-Carex rosea,Rosy Sedge,,1,,,,,,,,
-Chelone glabra,White Turtlehead,,,,,,,,1,,
-Glyceria striata,Fowl Manna Grass,,,,,,1,,,,
-Iris virginica,Southern Blue Flag Iris,,,,1,,,,,,
-Lobelia siphilitica,Giant Blue Lobelia,,,,,,1,1,1,,
-Physostegia virginiana,Obedient Plant,,,,,1,1,1,,,
-Pycnanthemum virginianum,Mountain Mint,,,,,,1,1,1,,
-Rudbeckia laciniata,Cutleaf Coneflower,,,,,,,,,,
-Uvularia grandiflora,Bellwort,,,,1,1,1,,,,
-Verbena hastata,Blue Vervain,,,,,1,1,1,1,,
-Zizia aurea,Golden Alexanders,,,,1,1,1,1,,,
+Scientific Name,Common Name,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Status,C,W
+Ageratina altissima,Snakeroot,,,,,,,1,1,,4,3
+Anemone virginiana,Thimbleweed,,,,,,,1,,,3,3
+Caltha palustris,Yellow Marsh Marigold,,,1,1,,,,,,6,-5
+Carex grayi,Gray's Sedge,,,,1,1,1,1,1,,6,-3
+Carex rosea,Rosy Sedge,,1,,,,,,,,2,5
+Chelone glabra,White Turtlehead,,,,,,,,1,,7,-5
+Glyceria striata,Fowl Manna Grass,,,,,,1,,,,4,-5
+Iris virginica,Southern Blue Flag Iris,,,,1,,,,,,5,-5
+Lobelia siphilitica,Giant Blue Lobelia,,,,,,1,1,1,,4,-3
+Physostegia virginiana,Obedient Plant,,,,,1,1,1,,,8,-3
+Pycnanthemum virginianum,Mountain Mint,,,,,,1,1,1,,5,-3
+Rudbeckia laciniata,Cutleaf Coneflower,,,,,,,,,,6,-3
+Uvularia grandiflora,Bellwort,,,,1,1,1,,,,5,5
+Verbena hastata,Blue Vervain,,,,,1,1,1,1,,4,-3
+Zizia aurea,Golden Alexanders,,,,1,1,1,1,,,6,0

@@ -1,14 +1,14 @@
-Scientific Name,Common Name,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Special Concern or Threatened,Coeff of Concern
-Anemone cylindracea,Tall Thimbleweed,,,,1,1,,,,,
-Aquilegia canadensis,Red Columbine,,,1,1,1,,,,,
-Asclepias tuberosa,Butterfly Milkweed,,,,,1,1,1,,,
-Geranium maculatum,Wild Geranium,,,1,1,1,,,,,
-Helianthus strumosus,Paleleaf Woodland Sunflower,,,,,1,1,,,,
-Heliopsis helianthoides,False Sunflower,,,,,,,1,1,,
-Heuchera richardsonii,Richard's Prairie Alumroot,,,,1,1,1,,,,
-Lespedeza capitata,Round-headed Bush Clover,,,,,,1,1,1,,
-Lupinus perennis,Lupine,,,1,1,,,,,,
-Monarda fistulosa,Wild Bergamot / Bee Balm,,,,,1,1,1,,,
-Penstemon digitalis,Foxglove Beardtongue,,,,,1,1,1,,,
-Solidago nemoralis,Old Field / Gray Goldenrod,,,,,,,1,,,
-Solidago speciosa,Showy Goldenrod sp.,,,,,,,1,1,,
+Scientific Name,Common Name,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Status,C,W
+Anemone cylindrica,Tall Thimbleweed,,,,1,1,,,,,6,5
+Aquilegia canadensis,Red Columbine,,,1,1,1,,,,,5,3
+Asclepias tuberosa,Butterfly Milkweed,,,,,1,1,1,,,5,5
+Geranium maculatum,Wild Geranium,,,1,1,1,,,,,4,3
+Helianthus strumosus,Paleleaf Woodland Sunflower,,,,,1,1,,,,4,5
+Heliopsis helianthoides,False Sunflower,,,,,,,1,1,,5,3
+Heuchera richardsonii,Richard's Prairie Alumroot,,,,1,1,1,,,,8,3
+Lespedeza capitata,Round-headed Bush Clover,,,,,,1,1,1,,5,3
+Lupinus perennis,Lupine,,,1,1,,,,,,7,5
+Monarda fistulosa,Wild Bergamot / Bee Balm,,,,,1,1,1,,,2,3
+Penstemon digitalis,Foxglove Beardtongue,,,,,1,1,1,,,2,0
+Solidago nemoralis,Old Field / Gray Goldenrod,,,,,,,1,,,2,5
+Solidago speciosa,Showy Goldenrod sp.,,,,,,,1,1,,5,5
